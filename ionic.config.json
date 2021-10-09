@@ -1,0 +1,7 @@
+{
+  "name": "sportivemem-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
